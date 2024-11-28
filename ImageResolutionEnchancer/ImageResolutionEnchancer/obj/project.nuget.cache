@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hETWmTcqYJK45+fcf08l0/o1wS38ADc3nUx5+YVVIMHFGVR8k6byi9egGDO+P/nUuK29UqprEB+x7LzI8iVz4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\machm\\Documents\\Nauka\\ImageResolutionEnchancer\\ImageResolutionEnchancer\\ImageResolutionEnchancer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\machm\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\machm\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
